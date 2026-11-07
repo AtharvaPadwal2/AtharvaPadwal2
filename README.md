@@ -1,356 +1,333 @@
-<div align="center">
+<div align="center"> <!-- Animated hero banner --> <a href="https://github.com/AtharvaPadwal2">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:120914,45:6D1B7B,75:E11D74,100:FF4D6D&height=285&section=header&text=ATHARVA%20PADWAL&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=FULL-STACK%20%7C%20SECURITY%20%7C%20CLOUD%20%7C%20APPLIED%20AI&descSize=18&descAlignY=57" width="100%" alt="Atharva Padwal — Full-stack, security, cloud and applied AI" />
+</a> <a href="https://github.com/AtharvaPadwal2">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=850&color=FF4D6D&center=true&vCenter=true&width=850&height=52&lines=Building+useful+products+from+idea+to+deployment.;IT+engineering+student+%7C+Mumbai%2C+India;Creator+of+Project+Unwind+%F0%9F%8C%BF+%26+ARTifact+%F0%9F%9B%8B;React+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+Three.js;Learning+security%2C+cloud+and+applied+AI." alt="Animated introduction" />
+</a>   
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030407,55:1558C9,100:D4FF24&height=260&section=header&text=ATHARVA%20PADWAL&fontSize=54&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=Full-stack%20%E2%80%A2%20Security%20%E2%80%A2%20Cloud%20%E2%80%A2%20Applied%20AI&descSize=18&descAlignY=58" width="100%" alt="Atharva Padwal — full-stack development, security, cloud and applied AI" />
 
-<a href="https://github.com/AtharvaPadwal2">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=3F86FF&center=true&vCenter=true&width=720&height=50&lines=Building+things+people+can+actually+use.;IT+Engineering+student+%C2%B7+Mumbai%2C+India;Developer+behind+Project+Unwind+%F0%9F%8C%BF;React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Learning+security%2C+cloud+and+applied+AI." alt="Typing animation of my tagline" />
-</a>
 
-<br/>
+<a href="mailto:atharvapadwal520@gmail.com"><img src="https://img.shields.io/badge/OPEN%20TO-MUMBAI%20INTERNSHIPS-FF4D6D?style=for-the-badge&labelColor=120914&logo=target&logoColor=120914" alt="Open to Mumbai internships" /></a>
+<a href="https://project-unwind-mu.vercel.app/"><img src="https://img.shields.io/badge/LIVE-PROJECT%20UNWIND-E11D74?style=for-the-badge&labelColor=120914&logo=vercel&logoColor=white" alt="Project Unwind" /></a>
+<a href="https://ar-tifact-six.vercel.app/"><img src="https://img.shields.io/badge/LIVE-ARTifact-9B5DE5?style=for-the-badge&labelColor=120914&logo=vercel&logoColor=white" alt="ARTifact" /></a>
+<a href="https://github.com/AtharvaPadwal2"><img src="https://komarev.com/ghpvc/?username=AtharvaPadwal2&style=for-the-badge&color=E11D74&label=VISITORS&labelColor=120914" alt="Profile views" /></a>
 
-<img src="https://img.shields.io/badge/Mumbai-Open%20to%20internships-D4FF24?style=for-the-badge&labelColor=030407" alt="Open to Mumbai internships" />
-<img src="https://img.shields.io/badge/Stack-React%20%C2%B7%20Node%20%C2%B7%20Postgres-1558C9?style=for-the-badge&labelColor=030407" alt="Main stack" />
-<img src="https://komarev.com/ghpvc/?username=AtharvaPadwal2&style=for-the-badge&color=1558C9&label=PROFILE+VIEWS&labelColor=030407" alt="Profile views" />
 
-<br/><br/>
 
-<a href="mailto:atharvapadwal520@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-D4FF24?style=for-the-badge&logo=gmail&logoColor=030407" alt="Email Atharva" /></a>
-<a href="https://github.com/AtharvaPadwal2"><img src="https://img.shields.io/badge/GitHub-AtharvaPadwal2-1558C9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://project-unwind-mu.vercel.app/"><img src="https://img.shields.io/badge/Explore-Project%20Unwind-12382E?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Project Unwind" /></a>
-<a href="https://ar-tifact-six.vercel.app/"><img src="https://img.shields.io/badge/Explore-ARTifact-1558C9?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit ARTifact" /></a>
 
-<br/><br/>
 
-**[About](#-about-me)** &nbsp;•&nbsp; **[Projects](#-selected-projects)** &nbsp;•&nbsp; **[Toolbox](#-developer-toolbox)** &nbsp;•&nbsp; **[Stats](#-github-stats)** &nbsp;•&nbsp; **[Milestones](#-learning--milestones)** &nbsp;•&nbsp; **[Contact](#-lets-connect)**
+
+About  •  Projects  •  Stack  •  Stats  •  Journey  •  Contact
 
 </div>
 
-<br/>
 
-## 👋 About me
 
-```js
+
+✦ About me
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+Hello, I'm Atharva 👋
+
+I’m an Information Technology engineering student at Atharva College of Engineering, Mumbai, who enjoys turning rough ideas into useful, dependable software.
+
+I like working across the whole product loop: understanding the problem, designing the system, building the interface and API, deploying it, then learning from real users.
+
+I’m especially interested in full-stack development, application security, cloud fundamentals, interactive 3D experiences, and practical AI.
+
+</td>
+<td width="48%" valign="top">
+
+Plain Text
+
+
 const atharva = {
-  role: "Information Technology engineering student",
-  college: "Atharva College of Engineering, Mumbai",
-  mainStack: ["React", "Node.js", "Express", "PostgreSQL"],
-  growingIn: ["System design", "Cloud fundamentals", "DevOps", "AI-powered apps"],
-  cares: ["Authentication", "Authorization", "Privacy", "API design", "Reliable deployments"],
-  practising: "Data structures & algorithms in Java",
-  openTo: "Mumbai-based full-stack, frontend and backend internships",
-  funOnTheSide: ["Cricket analytics", "Chess", "AR", "Interactive learning"],
+  location: "Mumbai, India",
+  role: "IT engineering student",
+  builds: ["web apps", "APIs", "3D interfaces"],
+  mainStack: ["React", "Node.js", "PostgreSQL"],
+  exploring: ["cloud", "security", "RAG", "DevOps"],
+  practising: "DSA with Java",
+  openTo: "software internships & collaborations",
 };
-```
 
-I like taking an idea through the **whole** process: understanding the problem, designing the system, building the frontend and backend, deploying it, and improving it from feedback. I want to understand the application as a whole: how it looks, how it works, how it's secured, and what happens when real people start using it.
 
-<br/>
 
-## 🚀 Selected projects
+</td>
+</tr>
+</table> <div align="center">
+
+
+Build with curiosity. Ship with care. Improve with feedback.
+
+</div>
+
+🚀 Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 [Project Unwind](https://project-unwind-mu.vercel.app/)
-**A privacy-first, non-medical mental wellness platform.**
+🌿 
 
-Journaling, wellness tracking, self-reflection and community support in one app. I lead development; teammates contribute to the AI companion, frontend and offline session operations.
+Project Unwind
 
-`React` `Vite` `Node.js` `Express` `PostgreSQL` `Neon` `Socket.IO` `JWT` `Cloudinary` `Brevo` `PostHog` `Vercel` `Render`
+Privacy-first, non-medical mental wellness platform.
 
-[![Open Unwind](https://img.shields.io/badge/OPEN%20UNWIND-12382E?style=for-the-badge&logo=vercel&logoColor=white)](https://project-unwind-mu.vercel.app/)
+Journaling, wellness tracking, self-reflection, community support, real-time chat, session workflows and an AI companion built with a team.
+
+React Vite Node.js Express PostgreSQL Socket.IO JWT Cloudinary Neon
+
+<a href="https://project-unwind-mu.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE-UNWIND-FF4D6D?style=for-the-badge&labelColor=4A102A&logo=vercel&logoColor=120914" alt="Explore Project Unwind" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛋️ [ARTifact](https://ar-tifact-six.vercel.app/)
-**An AR furniture exploration and visualization app.**
+🛋️ 
+ARTifact
 
-Discover furniture and preview 3D models in your own space through an AR-enabled interface, with a catalog and a workspace/history area.
+AR furniture discovery and visualization app.
 
-`React` `Vite` `model-viewer` `Node.js` `Express` `MongoDB Atlas` `Appwrite` `Razorpay` `Vercel` `Render`
+Browse a furniture catalogue, preview 3D models in your space, and manage a workspace/history experience through an AR-enabled interface.
 
-[![Explore ARTifact](https://img.shields.io/badge/EXPLORE%20ARTifact-1558C9?style=for-the-badge&logo=vercel&logoColor=white)](https://ar-tifact-six.vercel.app/)
+React Vite model-viewer Node.js Express MongoDB Atlas Appwrite
+
+<a href="https://ar-tifact-six.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE-ARTifact-C77DFF?style=for-the-badge&labelColor=32134F&logo=vercel&logoColor=white" alt="Explore ARTifact" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ♟️ ChessRAG
-**Learn chess, explore openings, play Stockfish.**
+♟️ ChessRAG
 
-RAG-powered tutor with retrieved lesson citations, **2,803** opening records, **19,113** validated games, four Stockfish difficulty levels, and interactive 2D/3D boards.
+A retrieval-augmented chess tutor and analysis board.
 
-`Vue 3` `Three.js` `FastAPI` `Stockfish` `Supabase` `pgvector` `FastEmbed` `Groq`
+Explore 2,803 opening records, replay 19,113 validated games, learn with cited lessons, and play Stockfish across four difficulty levels on interactive 2D/3D boards.
+
+Vue 3 Three.js FastAPI Stockfish Supabase pgvector FastEmbed
 
 </td>
 <td width="50%" valign="top">
 
-### 📓 Journal Insights
-**An NLP experiment for emotions in journal-style text.**
+📓 Journal Insights
 
-Emotion classification, sentiment, keywords and reflection prompts, with a Streamlit interface. Tuned TF-IDF + LinearSVC reached **90.64%** validation accuracy.
+An NLP experiment for emotion-aware reflections.
 
-`Python` `scikit-learn` `TF-IDF` `LinearSVC` `Streamlit` `NLP`
+A Streamlit interface for emotion classification, sentiment, keywords and reflection prompts. Tuned TF-IDF + LinearSVC reached 90.64% validation accuracy.
+
+Python scikit-learn TF-IDF LinearSVC Streamlit
 
 </td>
 </tr>
-</table>
+</table> <details>
+<summary><b>🔍 Project Unwind — architecture and lessons</b></summary>
+  
 
-<details>
-<summary><b>🌿 Project Unwind: what I built, and the architecture</b></summary>
 
-<br/>
 
-| Area | What I've worked on |
-|:--|:--|
-| 🔑 **Accounts & access** | Email verification, password recovery, Google OAuth, access/refresh token flows, protected routes |
-| 📔 **Private journaling** | Journal lifecycle management and PIN-based journal locking |
-| 📈 **Wellness tools** | Mood, sleep, habit, energy and water trackers; DASS-21 self-assessment and PDF output |
-| 💬 **Community** | Posts, comments, likes, real-time chat, direct messaging, reporting workflows |
-| 🛡️ **Administration** | User and report management, decision workflows, testimonials, audit logs |
-| 📊 **Product operations** | Analytics, health monitoring, deployment, iterative fixes from tester feedback |
-| 📅 **Session workflows** | Booking requests, approve/decline flows, scheduling, session-handler tools |
+mermaid
 
-```mermaid
-flowchart LR
-    U([User]) --> FE["React + Vite<br/>Vercel"]
-    FE -- "REST + JWT" --> API["Node + Express<br/>Render"]
-    FE -- "WebSocket" --> RT["Socket.IO<br/>real-time chat"]
-    API --> DB[("PostgreSQL<br/>Neon")]
-    API --> CL["Cloudinary<br/>media"]
-    API --> BR["Brevo<br/>email"]
-    FE -.-> PH["PostHog<br/>analytics"]
-    RT --> API
-    classDef a fill:#1558C9,stroke:#030407,color:#fff
-    classDef b fill:#D4FF24,stroke:#030407,color:#030407
-    class FE,API,RT a
-    class DB b
-```
+Source
 
-> **What it taught me:** shipping features is only part of the work. Handling sessions, permissions, database limits, real-time connections and user feedback has been just as valuable.
+
+
+Area
+What I worked on
+🔑 Accounts
+Email verification, password recovery, Google OAuth, access/refresh tokens and protected routes
+📔 Journaling
+Journal lifecycle management and PIN-based journal locking
+📈 Wellness
+Mood, sleep, habit, energy and water tracking; DASS-21 self-assessment and PDF output
+💬 Community
+Posts, comments, likes, real-time chat, direct messages and reporting workflows
+🛡️ Administration
+User/report management, decision workflows, testimonials and audit logs
+📅 Sessions
+Booking requests, approval flows, scheduling and session-handler tools
+
+
+
+
+
+Lesson: shipping features is only one part of the work. Sessions, permissions, database limits, real-time connections and user feedback matter just as much.
 
 <sub>Unwind is a wellness companion, not a medical diagnosis or treatment service. AI companion development is a team effort.</sub>
 
-</details>
+</details> <details>
+<summary><b>🧩 More things I've built or explored</b></summary>
+  
 
-<details>
-<summary><b>🛋️ ARTifact: details</b></summary>
 
-<br/>
 
-- Built around a furniture catalog, 3D/AR viewing and a workspace/history experience.
-- React, Vite and Google's `model-viewer` for interactive model presentation.
-- Node.js/Express backend with MongoDB Atlas and Appwrite storage.
-- JWT authentication and Razorpay payments in **test mode**.
-- Worked through deployment issues involving CORS, hosting configuration and backend connectivity.
+Project
+Focus
+🏏 RR Scouting Intelligence
+Cricket scouting dashboard with Python, Streamlit, Pandas and explainable comparisons
+🤖 M.O.L.E. Rover
+Mine mapping and emergency response concept; SIH internal top-50 team
+🎯 BallTrace DRS
+Cricket ball-tracking API experiments with FastAPI and frontend overlays
+☕ DSA in Java
+Arrays, strings, searching and sorting practice
+⚙️ DevOps practice
+Git workflows, CI/CD, containers and infrastructure automation
+🧩 Smaller builds
+Chat app, Photobooth, full-stack Todo, Pawdcast PetCare and more
 
-<sub>AR support depends on the device and browser. Generation and payment workflows remain areas of ongoing development.</sub>
 
-</details>
 
-<details>
-<summary><b>♟️ ChessRAG: details</b></summary>
-
-<br/>
-
-- RAG-powered chess tutor with retrieved lesson citations.
-- Opening exploration across **2,803** opening records; replay across **19,113** validated dataset games.
-- Stockfish gameplay with four difficulty settings, move history and undo.
-- Interactive 2D and 3D boards, analysis tools, clocks and premoves.
-- Supabase authentication; account-owned game saving and completed-game review are under development.
-
-**Stack:** Vue 3 · Vite · Three.js · chess.js · Python · FastAPI · Stockfish · python-chess · Supabase · PostgreSQL · pgvector · FastEmbed · Groq / OpenRouter
-
-<sub>Developed and tested locally; production deployment is a separate milestone.</sub>
 
 </details>
 
-<details>
-<summary><b>📓 Journal Insights: results</b></summary>
+🧰 My stack
 
-<br/>
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,vue,nextjs,nodejs,express,fastapi,postgres,mongodb,supabase,threejs,git,github,githubactions,docker,linux&perline=10" alt="Technology icons" />
 
-| Experiment | Validation accuracy | Validation macro F1 |
-|:--|:--:|:--:|
-| TF-IDF + Logistic Regression | 83.30% | 0.7550 |
-| Tuned TF-IDF + LinearSVC | **90.64%** | **0.8813** |
 
-Trained on the `dair-ai/emotion` dataset (six labels), with a Streamlit interface for sentence-level and overall insights. Also explored RoBERTa and VADER for sentiment.
 
-<sub>These are dataset validation results, not evidence of clinical accuracy or real-world journal performance.</sub>
+
+
+
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Vite-E11D74?style=flat-square" alt="Frontend stack" />
+<img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express%20%7C%20FastAPI-6D1B7B?style=flat-square" alt="Backend stack" />
+<img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20MongoDB%20%7C%20pgvector-FF4D6D?style=flat-square&labelColor=4A102A" alt="Data stack" />
+<img src="https://img.shields.io/badge/Interactive-Three.js%20%7C%20model--viewer-C77DFF?style=flat-square&labelColor=32134F" alt="Interactive stack" /> </div> <table>
+<tr>
+<td width="33%" valign="top">
+
+Frontend
+
+React · Vite · Vue 3 · React Router · responsive UI · state and component design
+
+</td>
+<td width="33%" valign="top">
+
+Backend & security
+
+Node.js · Express · FastAPI · REST · Socket.IO · JWT · OAuth · bcrypt · Zod · Helmet · CORS
+
+</td>
+<td width="33%" valign="top">
+
+AI, data & 3D
+
+Pandas · scikit-learn · TF-IDF · RAG · FastEmbed · pgvector · Three.js · Stockfish
+
+</td>
+</tr>
+</table> <details>
+<summary><b>☁️ Shipping, cloud and workflow</b></summary>
+  
+
+
+
+Git · GitHub · GitHub Actions · Docker · Linux · Vercel · Render · Neon · Supabase · UptimeRobot · PostHog · k6 · Ansible · Nginx · Kubernetes fundamentals · AWS Cloud Practitioner Essentials
 
 </details>
 
-<details>
-<summary><b>🧪 More things I've built or explored</b></summary>
+📊 GitHub dashboard
 
-<br/>
+<div align="center"> <img height="175" src="https://github-readme-stats.vercel.app/api?username=AtharvaPadwal2&show_icons=true&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=FF4D6D&text_color=D9B3C7&ring_color=E11D74" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaPadwal2&layout=compact&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=D9B3C7" alt="Top languages" /> <img src="https://streak-stats.demolab.com?user=AtharvaPadwal2&hide_border=true&background=00000000&ring=E11D74&fire=FF4D6D&currStreakLabel=C77DFF&sideLabels=D9B3C7&currStreakNum=FFFFFF&sideNums=D9B3C7&dates=9A6A8A" alt="GitHub contribution streak" />
 
-| Project / exploration | Focus |
-|:--|:--|
-| 🏏 **RR Scouting Intelligence** *(in development)* | Local cricket scouting dashboard: Python, Streamlit, Pandas, role-based scoring, explainable comparisons |
-| 🤖 **M.O.L.E. Rover** *(team concept & prototype)* | Mine mapping and emergency response; sensors, navigation concepts, TypeScript/Vite dashboard; **SIH internal top-50** |
-| 🎯 **BallTrace DRS** *(prototype)* | Cricket ball tracking API experiments with FastAPI and a frontend overlay |
-| ☕ **DSA in Java** | Arrays, strings, searching, sorting, continued practice |
-| ⚙️ **DevOps practice** | Git workflows, CI/CD, containers, infrastructure automation, college lab exercises |
-| 🧩 **Smaller builds** | Mini Projects, Chat app, Photobooth, Full-stack Todo, Pawdcast PetCare, Hospitality Management System |
 
-</details>
 
-<br/>
 
-## 🧰 Developer toolbox
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,react,vue,nextjs,nodejs,express,fastapi,postgres,mongodb,supabase,git,github,githubactions,docker,linux&perline=10" alt="Technology icons" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaPadwal2&bg_color=00000000&color=D9B3C7&line=E11D74&point=FF4D6D&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
 
-<sub>Tools I've used, practised, or started exploring, at different levels of experience.</sub>
+<sub>Stats and graphs are powered by external services and may change or load slowly.</sub>
 
 </div>
 
-<br/>
-
-<details open>
-<summary><b>💻 Development & data</b></summary>
-
-<br/>
-
-| Area | Technologies and concepts |
-|:--|:--|
-| **Languages** | JavaScript, Java, Python, SQL, HTML, CSS; exploring TypeScript |
-| **Frontend** | React, Vite, Vue 3, React Router, responsive interfaces, forms, state and component design |
-| **Backend & APIs** | Node.js, Express, FastAPI, REST APIs, Socket.IO, Uvicorn |
-| **Databases** | PostgreSQL, Neon, Supabase, MongoDB Atlas, pgvector |
-| **Authentication** | JWT access/refresh tokens, httpOnly cookies, bcrypt, Google OAuth 2.0, Supabase Auth |
-| **API protection** | Zod, Helmet, CORS, rate limiting, authorization checks, Content Security Policy |
-| **Integrations** | Cloudinary, Appwrite, Brevo, Razorpay (test) |
-| **3D & interactive** | Three.js, model-viewer, chess.js, Stockfish, python-chess |
-
-</details>
-
-<details>
-<summary><b>🧠 AI, ML & analytics</b></summary>
-
-<br/>
-
-| Area | Technologies and concepts |
-|:--|:--|
-| **Data work** | Pandas, dataset cleaning, exploratory analysis, feature engineering, visualization |
-| **Classical ML** | scikit-learn, Logistic Regression, LinearSVC, classification, clustering, validation |
-| **NLP** | TF-IDF, emotion classification, sentiment analysis, RoBERTa, VADER |
-| **RAG & LLM apps** | Embeddings, FastEmbed, vector search, pgvector, retrieved citations, Groq, OpenRouter |
-| **ML interfaces** | Streamlit dashboards and local prototypes |
-| **Team exposure** | Working around an Ollama-based, locally fine-tuned AI companion built by a teammate |
-
-</details>
-
-<details>
-<summary><b>🚢 Shipping, monitoring & workflow</b></summary>
-
-<br/>
-
-| Area | Technologies and practices |
-|:--|:--|
-| **Version control** | Git, GitHub, feature branches, pull requests, merge-conflict resolution |
-| **CI/CD** | GitHub Actions workflows and deployment checks |
-| **Hosting** | Vercel, Render, Neon, Supabase |
-| **Monitoring** | UptimeRobot, PostHog, service health checks, application logs |
-| **Performance** | Local k6 load-testing experiments |
-| **DevOps labs** | Docker, Ansible, Nginx, Kubernetes/kubectl fundamentals |
-| **Cloud** | AWS Cloud Practitioner Essentials: compute, storage, networking, security fundamentals |
-| **Process** | Agile/Scrum, Jira, requirements, PRDs, system design, documentation, tester feedback |
-
-</details>
-
-<details>
-<summary><b>🌱 Technologies and ideas I'm still growing into</b></summary>
-
-<br/>
-
-- TypeScript and Next.js for future frontend and portfolio work
-- Framer Motion and more polished interactive 3D interfaces
-- Cloud architecture and production infrastructure design
-- Redis caching, scaling strategies and database performance
-- Stronger testing practices and observability
-- Deeper machine learning foundations and careful evaluation of AI features
-- Kubernetes beyond introductory tooling and lab exercises
-
-</details>
-
-<br/>
-
-## 📊 GitHub stats
+🧊 3D-style build map
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtharvaPadwal2&show_icons=true&hide_border=true&bg_color=00000000&title_color=1558C9&icon_color=3F86FF&text_color=8E99B4&ring_color=1558C9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaPadwal2&layout=compact&hide_border=true&bg_color=00000000&title_color=1558C9&text_color=8E99B4" alt="Top languages" />
+mermaid
 
-<img src="https://streak-stats.demolab.com?user=AtharvaPadwal2&hide_border=true&background=00000000&ring=1558C9&fire=3F86FF&currStreakLabel=3F86FF&sideLabels=8E99B4&currStreakNum=8E99B4&sideNums=8E99B4&dates=8E99B4" alt="GitHub streak" />
+Source
 
-<sub>Stats widgets are loaded from external services and may take a moment, or look different over time.</sub>
+
+
+Frontend ────────────────┐
+　　　　　　　　　　　　　├── Useful products
+Backend & APIs ─────────┤
+　　　　　　　　　　　　　├── Reliable systems
+Cloud + DevOps ─────────┤
+　　　　　　　　　　　　　├── Real-world learning
+AI + interactive 3D ────┘
 
 </div>
 
-<br/>
 
-## 🏆 Learning & milestones
+The visual theme is intentional: a dark canvas for focus, purple for systems, pink for motion, and red for ideas worth shipping.
 
-```mermaid
-timeline
-    title Things I've shipped and learned
-    Learning : Core Java (Internshala)
-             : React, Redux, Next.js, Node.js (Udemy)
-    Cloud : AWS Cloud Practitioner Essentials
-    Teamwork : SIH internal top-50 (M.O.L.E. Rover)
-    Shipping : Project Unwind built, deployed and tested with real users
-```
+🧭 Learning journey
 
-- ☁️ **AWS Cloud Practitioner Essentials:** completed through AWS Training & Certification (a course completion, distinct from the certification exam).
-- ⚛️ **React / Redux / Next.js and Node.js:** coursework through Udemy.
-- ☕ **Core Java:** coursework through Internshala.
-- 🏅 **SIH internal top-50:** team work on the M.O.L.E. Rover concept.
-- 🌿 **Project Unwind:** built and deployed with a team, tested with technical and non-technical users, presented in college and innovation settings.
+mermaid
 
-<br/>
+Source
 
-## 🎯 What I'm working towards
 
-| | Goal |
-|:-:|:--|
-| 🏗️ | **Build stronger software:** clearer architecture, better error handling, thoughtful APIs, dependable UX |
-| 🔒 | **Understand production:** secure deployments, monitoring, performance, database operations |
-| 🧠 | **Apply AI with purpose:** use ML and retrieval where they solve a real problem, and evaluate their limits |
-| 📐 | **Keep the fundamentals sharp:** Java DSA, databases, networking, system design |
-| 🤝 | **Learn with a team:** internships, feedback, code reviews, collaborative projects |
 
-<br/>
+•
+☁️ AWS Cloud Practitioner Essentials: completed through AWS Training & Certification; this is a course completion, distinct from the certification exam.
 
-## 🤝 Let's connect
+•
+⚛️ React / Redux / Next.js / Node.js: coursework through Udemy.
 
-I'm interested in **Mumbai-based software development internships**, practical collaborations, and conversations about building useful products.
+•
+☕ Core Java: coursework through Internshala.
 
-| | |
-|:--|:--|
-| 📧 **Email** | [atharvapadwal520@gmail.com](mailto:atharvapadwal520@gmail.com) |
-| 💻 **GitHub** | [github.com/AtharvaPadwal2](https://github.com/AtharvaPadwal2) |
-| 🌿 **Project Unwind** | [Visit the application](https://project-unwind-mu.vercel.app/) |
-| 🛋️ **ARTifact** | [Explore the application](https://ar-tifact-six.vercel.app/) |
-| 📍 **Location** | Mumbai, India |
+•
+🏅 SIH internal top-50: team work on the M.O.L.E. Rover concept.
 
-<!-- Add your verified LinkedIn URL and portfolio URL here when ready. -->
-<!-- Visuals use external image services. GitHub may cache them or display them differently over time. -->
+🎯 What I'm working towards
+
+
+
+Goal
+🏗️
+Build stronger software with clearer architecture, thoughtful APIs and dependable UX
+🔒
+Understand production: secure deployments, monitoring, performance and database operations
+🧠
+Apply AI with purpose and evaluate the limits of ML and retrieval features
+📐
+Keep Java DSA, databases, networking and system design fundamentals sharp
+🤝
+Learn with a team through internships, code reviews and practical collaboration
+
+
+
+
+🤝 Let's build something
+
+I’m interested in Mumbai-based software development internships, practical collaborations, and conversations about building useful products.
 
 <div align="center">
 
-<br/>
+<a href="mailto:atharvapadwal520@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-FF4D6D?style=for-the-badge&labelColor=120914&logo=gmail&logoColor=120914" alt="Email Atharva" /></a>
+<a href="https://github.com/AtharvaPadwal2"><img src="https://img.shields.io/badge/GITHUB-ATHARVAPADWAL2-C77DFF?style=for-the-badge&labelColor=32134F&logo=github&logoColor=white" alt="Atharva's GitHub" /></a>
+<a href="https://project-unwind-mu.vercel.app/"><img src="https://img.shields.io/badge/TRY-PROJECT%20UNWIND-E11D74?style=for-the-badge&labelColor=4A102A&logo=vercel&logoColor=white" alt="Try Project Unwind" /></a>
 
-<a href="mailto:atharvapadwal520@gmail.com"><img src="https://img.shields.io/badge/Have%20an%20idea%3F-Let's%20build%20it-D4FF24?style=for-the-badge&logo=gmail&logoColor=030407" alt="Have an idea? Email me" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030407,55:1558C9,100:D4FF24&height=120&section=footer" width="100%" alt="Blue and lime decorative footer" />
 
-</div>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120914,45:6D1B7B,75:E11D74,100:FF4D6D&height=135&section=footer&animation=twinkling" width="100%" alt="Animated pink, purple and red footer" /> </div> <!--
+Optional 3D contribution upgrade:
+1. Add the github-profile-3d-contrib workflow to this profile repository.
+2. Replace this comment with the generated profile-night-rainbow.svg image.
+3. Keep the static dashboard above as the fallback for light/dark themes.
+
+Visuals use external image services. GitHub may cache them or render them differently over time.
+-->
+
