@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/AtharvaPadwal2">
-<img src="assets/banner.svg" width="100%" alt="Atharva Padwal — Full-stack, security, cloud and applied AI" />
+<img src="banner.svg" width="100%" alt="Atharva Padwal — Full-stack, security, cloud and applied AI" />
 </a>
 
 <a href="https://github.com/AtharvaPadwal2">
@@ -309,7 +309,7 @@ I'm interested in **Mumbai-based software development internships**, practical c
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Animated pink and blue wave footer" />
+<img src="footer.svg" width="100%" alt="Animated pink and blue wave footer" />
 
 </div>
 
