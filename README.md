@@ -266,15 +266,11 @@ Git · GitHub · GitHub Actions · Docker · Linux · Vercel · Render · Neon �
 <a id="journey"></a>
 ## 🧭 Learning journey
 
-```mermaid
-timeline
-    title Things I've shipped and learned
-    Learning : Core Java (Internshala)
-             : React, Redux, Next.js, Node.js (Udemy)
-    Cloud : AWS Cloud Practitioner Essentials
-    Teamwork : SIH internal top-50 (M.O.L.E. Rover)
-    Shipping : Project Unwind built, deployed and tested with real users
-```
+<div align="center">
+
+<img src="journey.svg" width="100%" alt="Learning journey: Core Java, full-stack JavaScript, AWS Essentials, SIH top-50, Project Unwind and what comes next" />
+
+</div>
 
 - ☁️ **AWS Cloud Practitioner Essentials:** completed through AWS Training & Certification; this is a course completion, distinct from the certification exam.
 - ⚛️ **React / Redux / Next.js / Node.js:** coursework through Udemy.
