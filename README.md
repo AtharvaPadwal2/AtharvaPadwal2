@@ -24,7 +24,7 @@
 <br/>
 
 <a id="about"></a>
-## ✦ About me
+## About me
 
 <table>
 <tr>
