@@ -68,7 +68,7 @@ const atharva = {
 <img src="divider.svg" width="100%" alt="" />
 
 <a id="projects"></a>
-## 🚀 Featured projects
+## Featured projects
 
 <table>
 <tr>
