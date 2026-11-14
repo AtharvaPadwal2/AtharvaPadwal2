@@ -110,7 +110,7 @@ Explore **2,803** opening records, replay **19,113** validated games, learn with
 </td>
 <td width="50%" valign="top">
 
-### 📓 Journal Insights
+### Journal Insights
 **An NLP experiment for emotion-aware reflections.**
 
 A Streamlit interface for emotion classification, sentiment, keywords and reflection prompts. Tuned TF-IDF + LinearSVC reached **90.64%** validation accuracy.
@@ -144,8 +144,8 @@ flowchart LR
 
 | Area | What I worked on |
 |:--|:--|
-| 🔑 **Accounts** | Email verification, password recovery, Google OAuth, access/refresh tokens and protected routes |
-| 📔 **Journaling** | Journal lifecycle management and PIN-based journal locking |
+|  **Accounts** | Email verification, password recovery, Google OAuth, access/refresh tokens and protected routes |
+|  **Journaling** | Journal lifecycle management and PIN-based journal locking |
 | 📈 **Wellness** | Mood, sleep, habit, energy and water tracking; DASS-21 self-assessment and PDF output |
 | 💬 **Community** | Posts, comments, likes, real-time chat, direct messages and reporting workflows |
 | 🛡️ **Administration** | User/report management, decision workflows, testimonials and audit logs |
